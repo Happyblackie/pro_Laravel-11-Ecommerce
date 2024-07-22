@@ -1,0 +1,24 @@
+PDF ERROR FOR PRINTING IMAGES
+The PHP GD extension is required, but is not installed.
+
+
+SOLUTION
+-1
+
+For windows users
+
+Go to php.ini file located in C:/xampp/php
+
+Where the file type is written as "configuration settings" Once u doubleclick and it opens, search for gd. You will get something like this ;extension=gd
+
+Uncomment it by taking out that semicolon at the beginning then save the file and close it. Then go to this path c:/xampp/php/ext Copy this file php_gd.dll To c:/windows/system32
+
+Paste it there. Now restart ur xampp server. It'll work. Simple as that. Sorry for the long episodes ☺️☺️
+
+
+
+App Password Link : https://myaccount.google.com/apppasswords?pli=1&rapt=AEjHL4O1aq649mMG4MedlIq-lLQ6HnuMror8Bza5c5RnH2MqUqmW_wKlh4wjOIJgQTRsyMSTPjqHzY1SM0gx7oYZNIPc-OPeBQsoSNIej4KiJPcbPJRwbW4
+
+
+
+
